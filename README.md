@@ -4,8 +4,8 @@ Content all XP EXERCICE : Exercice 1 - Exercice 2 - Exercice 3
 ## Exercise 1 : Creating A Basic Component In Angular
 --------------
 
-                                                                      Instructions
-                                                                      ************
+Instructions
+************
 
 In this exercise, you will create a basic component in Angular and use it in the root component of your application.
 
