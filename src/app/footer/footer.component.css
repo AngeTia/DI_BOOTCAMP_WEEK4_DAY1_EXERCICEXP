@@ -1,0 +1,11 @@
+footer{
+    position: absolute;
+    bottom: 0;
+    color: blueviolet;
+    margin-left: 22em;
+    font-size: x-large;
+}
+p{
+    text-align: center;
+    margin-top: 1em;
+}
